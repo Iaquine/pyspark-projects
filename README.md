@@ -1,2 +1,2 @@
 # pyspark-projects
-Repositorio dedicado a projetos em usando pyspark
+Repositorio dedicado a projetos com pyspark
